@@ -1,0 +1,98 @@
+﻿  main.cpp
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(38,15): warning C4244: '인수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(86,50): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(86,36): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(86,22): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(93,45): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(93,33): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(93,21): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(94,45): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(94,33): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(94,21): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(95,45): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(95,33): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(95,21): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(97,45): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(97,33): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(97,21): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(98,45): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(98,33): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(98,21): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(99,45): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(99,33): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(99,21): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(108,50): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(108,36): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(108,22): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(114,45): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(114,33): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(114,21): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(115,45): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(115,33): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(115,21): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(116,45): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(116,33): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(116,21): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(149,50): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(149,36): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(149,22): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(177,36): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(177,29): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(177,17): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(179,46): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(179,34): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(179,22): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(181,46): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(181,34): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(181,22): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(185,36): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(185,29): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(185,17): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(187,46): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(187,34): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(187,22): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(189,50): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(189,38): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(189,22): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(199,50): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(199,36): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(199,22): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(200,53): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(200,39): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(200,25): warning C4244: '인수': 'const double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(218,33): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(218,26): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(218,17): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(219,43): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(219,34): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(219,21): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(220,33): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(220,26): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(220,17): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(221,43): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(221,34): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(221,21): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(239,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(241,32): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(241,18): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(242,38): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(242,18): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(243,36): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(243,22): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(245,38): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(245,18): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(246,42): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(246,22): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(247,38): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(247,24): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(257,68): warning C4244: '인수': 'double'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(257,27): warning C4244: '인수': 'double'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(283,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(285,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\2\main.cpp(287,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  코드를 생성하고 있습니다.
+  1 of 709 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  SecondProject.vcxproj -> C:\Users\JIU\Desktop\2학년 2학기 수업\図形情報科学演習  デジタルメディア設計演習\CG\SecondProject\Release\SecondProject.exe
